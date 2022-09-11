@@ -1,20 +1,20 @@
-# Anna Ridetskaya <h1>
-## Contact Information: <h2>
+# Anna Ridetskaya 
+## Contact Information: 
 * **E-mail:** ridetskaya.ancka@yandex.ru
 * **Discord:** Anna(@RidetskayaAnna)
-## About Myself: <h2>
+## About Myself: 
 I am an information technology software student in college. I work well in a team.
-## SKills: <h2>
+## SKills: 
 * HTML/CSS
 * Basic JavaScript
 * Git, GitHub
 * Microsoft Office
- ## Code Example: <h2>
+ ## Code Example: 
  ```javascript1
  function removeChar(str){
   return str.slice(1, str.length - 1);
 };
 ```
-## Language: <h2>
+## Language: 
 * Russian - Native
 * English - Beginner
