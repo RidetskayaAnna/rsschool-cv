@@ -1,9 +1,9 @@
 # Anna Ridetskaya <h1>
 ## Contact Information: <h2>
-**E-mail:** ridetskaya.ancka@yandex.ru
-**Discord:** Anna(@RidetskayaAnna)
+* **E-mail:** ridetskaya.ancka@yandex.ru
+* **Discord:** Anna(@RidetskayaAnna)
 ## About Myself: <h2>
-I am an information technology software student in college.I work well in a team.
+I am an information technology software student in college. I work well in a team.
 ## SKills: <h2>
 * HTML/CSS
 * Basic JavaScript
