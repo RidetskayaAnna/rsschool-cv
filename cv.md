@@ -9,8 +9,8 @@ I am an information technology software student in college. I work well in a tea
 * Basic JavaScript
 * Git, GitHub
 * Microsoft Office
- ## Code Example: 
- ```javascript1
+## Code Example: 
+ ```javascript
  function removeChar(str){
   return str.slice(1, str.length - 1);
 };
