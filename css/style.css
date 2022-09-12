@@ -6,7 +6,6 @@
     z-index: 4;
     border-radius: 10px;
 }
-
 .blockOne{
    display: flex;
    width: 400px;
@@ -15,31 +14,26 @@
    text-align: center;
    align-items: center;
 }
-
 .img{
     width: 200px;
     height: 200px;
     border-radius: 60px;
     border: 5px solid #000;
 }
-
 h2{  margin-left: 150px;
     margin-top: 12px;
     margin-bottom: 3px;
     z-index: 1;
 }
-
 pre{
     margin-left: 150px; 
     margin-top: -10px;
     height: 46px;
     margin-bottom: 5px;
 }
-
 li{
     margin-left: 150px; 
 }
-
 p{
     margin-left: 150px; 
     width: 400px;
