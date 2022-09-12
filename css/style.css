@@ -23,20 +23,23 @@
     border: 5px solid #000;
 }
 
-.blockTwo{
-   margin-left: 150px;
-   align-items: center;
-   padding-bottom: 10px;
-   width: 400px;
-}
-
-h2{
+h2{  margin-left: 150px;
     margin-top: 12px;
     margin-bottom: 3px;
 }
 
 pre{
+    margin-left: 150px; 
     margin-top: -10px;
     height: 46px;
     margin-bottom: 5px;
+}
+
+li{
+    margin-left: 150px; 
+}
+
+p{
+    margin-left: 150px; 
+    width: 400px;
 }
