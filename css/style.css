@@ -26,6 +26,7 @@
 h2{  margin-left: 150px;
     margin-top: 12px;
     margin-bottom: 3px;
+    z-index: 1;
 }
 
 pre{
